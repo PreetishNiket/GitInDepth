@@ -1,2 +1,2 @@
-# GitTut
+# GitInDepth
 Learning Git in depth
